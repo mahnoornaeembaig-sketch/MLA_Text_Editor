@@ -1,0 +1,16 @@
+# Executable and build files
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+*.out
+*.stackdump
+
+# Unwanted files
+DOC
+DOCS
+
+# IDE files
+.vscode/
+.idea/
